@@ -3,7 +3,7 @@
 E-mail: *t.yeroshenko@gmail.com*
 Phone: *+375 44 709 31 90*
 Telegram: *@Zorka*
-***
+
 A beginner in programming trying to learn how to create beautiful and functional web-sites.
 Hard-working, scrupulous and highly motivated to enter the fast-progressive field of front-end.
 Below are skills and tools I have been learning up to now.
